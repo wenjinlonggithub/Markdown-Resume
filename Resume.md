@@ -32,7 +32,7 @@
 
  - 求职意向：Java 研发工程师
  - 工作经验：5 年 
- - 期望薪资：25k
+ - 期望薪资：30k
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
@@ -41,13 +41,13 @@
 
 ## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
 
-- **远洋集团，信息部门架构组，Java 高级软件工程师，2016.12~2018.11**
+- **远洋集团，信息部门架构研究组，Java 高级软件工程师，2016.12~2018.11**
 
    主要参与海鸥I、<a href="https://www.sohu.com/a/210490133_99924614">海鸥II</a>系统架构设计 
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
 
-- **XXXX 项目**
+- **社交推荐系统项目**
 
   *使用到的技术*
 
